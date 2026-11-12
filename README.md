@@ -15,6 +15,6 @@ python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
 
 **Want the desktop app?** RF Map Suite adds search, filters, vendor lookup, time
 animation, a live ESP32 Marauder serial feed, click-to-pin, GeoJSON export and
-one-click satellite: https://codycrizzle.gumroad.com/l/rfmap-suite
+one-click satellite: https://codycrizzle.gumroad.com/l/imrmg
 
 MIT licensed. For passive, receive-only data you collected yourself. Follow your local laws.
